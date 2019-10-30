@@ -1,4 +1,4 @@
-# PowerBI-Themes
+# PowerBI-Themes [![Gitter](https://badges.gitter.im/PowerBIThemes/community.svg)](https://gitter.im/PowerBIThemes/community?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge)
 
 A collection of pre-branded theme files (JSON) for Power BI reports and dashboards.
 
